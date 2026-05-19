@@ -1,16 +1,13 @@
-## Hi there 👋
+Hey there!!
 
-<!--
-**lakshmisrianand06/lakshmisrianand06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Lakshmisri Anand, a pre-final year B.Tech IT student studying in India and a Singapore PR.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently learning Java and Linux.
+
+Open Source Contributor  
+Exploring Backend Development  
+GSSoC’26 Contributor | SIH’25 Finalist  
+Based in India
+
+Passionate about learning, building projects, and growing in tech.
