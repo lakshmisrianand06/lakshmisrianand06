@@ -8,17 +8,15 @@ I am a pre-final year B.Tech IT student studying in India and a Singapore PR.
 
 ## About Me
 
-- Currently learning Java and Linux
-- Open Source Contributor
+- Currently learning Python and Linux
 - Exploring Backend Development
-- GSSoC’26 Contributor
 - SIH’25 Finalist
 
 ---
 
 ## Tools & Technologies
 
-- Java
+- Python
 - Linux
 - MySQL
 
@@ -26,7 +24,6 @@ I am a pre-final year B.Tech IT student studying in India and a Singapore PR.
 
 ## Currently Working On
 
-- Open Source Contributions
 - Building Projects
 
 ---
